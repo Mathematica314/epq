@@ -1,0 +1,2844 @@
+!!!COM: Chopin, Fr&egrave;d&egrave;ric
+!!!OTL: Waltz in E-flat major
+!!!SCT: Op. 18
+**kern	**kern
+*staff2	*staff1
+*Ipiano	*Ipiano
+*clefF4	*clefG2
+*k[b-e-a-]	*k[b-e-a-]
+*M3/4	*M3/4
+=1-	=1-
+*	*MM175
+2.r	2.r
+=2	=2
+2.r	2b-\
+.	8b-\L
+.	8b-\J
+=3	=3
+2.r	2b-\
+.	8b-\L
+.	8b-\J
+=4	=4
+*	*MM179
+2.r	4b-\
+.	8b-\L
+.	8b-\J
+.	4b-\
+=5	=5
+*	*MM182
+2.r	8b-\L
+.	8b-\J
+.	4b-\
+.	8b-\L
+.	8b-\J
+=6	=6
+*	*MM184
+4BB-/	4b-\
+*clefG2	*
+4B-/ 4a-/	8dd\L
+.	8ee-\J
+4f/ 4a-/	4ff\
+=7	=7
+!!linebreak:original
+4E-/	4b-\
+4g/	8ee-\L
+.	8ff\J
+4e-/ 4g/	4gg\
+=8	=8
+*	*MM186
+4D/	4b-\
+4a-/	8ff\L
+.	8gg\J
+4f/ 4a-/	4ff'\ 4aa-'\
+=9	=9
+*clefF4	*
+*	*^
+4E-\	2gg/	4dd-\ 4bb-\
+4e-\	.	4r
+4En\	8bb-/L	4r
+.	8gg/J	.
+*	*v	*v
+=10	=10
+*	*MM185
+*	*^
+4F\	4bb-/	2dd-\ 2gg\
+4f\	8ccc/L	.
+.	8bb-/J	.
+4AA-/	4cc/ 4aa-/	4r
+*	*v	*v
+=11	=11
+*	*MM184
+*	*^
+4BB-/	4aa-/	2bn\
+4e-\	8bb-/L	.
+.	8aa-/J	.
+4e-\	4b-/ 4gg/	4r
+*	*v	*v
+=12	=12
+*	*MM183
+*	*^
+4BB-/	4gg/	2b-\
+4d\	8aa-/L	.
+.	8gg/J	.
+4d\	4a-/ 4ff/	4r
+*	*v	*v
+=13	=13
+!!linebreak:original
+*^	*
+*	*	*MM182
+*	*	*^
+4r	2.E-\	4ff/	2a-\
+4e-/	.	8gg/L	.
+.	.	8ff/J	.
+4e-/	.	4g/ 4ee-/	4r
+*v	*v	*	*
+*	*v	*v
+=14	=14
+*	*MM184
+4BB-/	4b-\
+*clefG2	*
+4a-/	8dd\L
+.	8ee-\J
+4a-/	4ff\
+=15	=15
+4E-/	4b-\
+4g/	8ee-\L
+.	8ff\J
+4B-/ 4g/	4ee-\ 4gg\
+=16	=16
+*	*MM186
+4D/	4b-\
+4B-/ 4a-/	8ff\L
+.	8gg\J
+4a-/	4ff\ 4aa-\
+=17	=17
+*clefF4	*
+*	*^
+4E-\	4r	4dd-\ 4gg\ 4bb-\
+4g\	4r	8r
+.	.	8gg\ 8bb-\
+4En\	8r	4dd-'\ 4gg'\
+.	[8bb-/	.
+*	*v	*v
+=18	=18
+*	*MM184
+*	*^
+4F\	8bb-/]	8dd-\L
+.	8r	8bb-\J
+4A-\ 4f\	4r	8ccc\L
+.	.	8bb-\J
+4AA-/	4r	4cc\ 4aa-\
+*	*v	*v
+=19	=19
+!!linebreak:original
+*	*MM183
+4BB-/	8bn\L
+.	8aa-\J
+4G\ 4e-\	8bb-\L
+.	8aa-\J
+4G\ 4e-\	4b-\ 4gg\
+=20	=20
+*	*MM181
+4BB-/	8b-\L
+.	8gg\J
+4d\	8aa-\L
+.	8gg\J
+4d\	4a-\ 4ff\
+=21	=21
+*	*MM170
+4B-\ 4e-\	4ee-\
+*	*MM182
+4r	8b-\L
+.	8b-\J
+4r	8b-\L
+.	8b-\J
+=22	=22
+*	*MM184
+4BB-/	4b-\
+*clefG2	*
+4a-/	8dd\L
+.	8ee-\J
+4a-/	4ff\
+=23	=23
+4E-/	4b-\
+4g/	8ee-\L
+.	8ff\J
+4g/	4gg\
+=24	=24
+*	*MM186
+4D/	4b-\
+4f/ 4a-/	8ff\L
+.	8gg\J
+4f/ 4a-/	4ff'\ 4aa-'\
+=25	=25
+!!pagebreak:original
+*clefF4	*
+*	*^
+4E-\	2gg/	4ee-\ 4bb-\
+4B-\ 4e-\	.	4r
+4En\	8bb-/L	4r
+.	8gg/J	.
+*	*v	*v
+=26	=26
+*	*MM185
+*	*^
+4F\	4bb-/	2dd-\ 2gg\
+4A-\ 4f\	8ccc/L	.
+.	8bb-/J	.
+4AA-/	4cc/ 4aa-/	4r
+*	*v	*v
+=27	=27
+*	*MM184
+*	*^
+4BB-/	4aa-/	2bn\
+4e-\	8bb-/L	.
+.	8aa-/J	.
+4e-\	4b-/ 4gg/	4r
+*	*v	*v
+=28	=28
+*	*MM183
+*	*^
+2.r	4gg/	2b-\
+.	8aa-/L	.
+.	8gg/J	.
+.	4a-/ 4ff/	4r
+*	*v	*v
+=29	=29
+*	*MM182
+*	*^
+4r	4ff/	2a-\
+4e-\	8gg/L	.
+.	8ff/J	.
+4B-\ 4e-\	4g/ 4ee-/	4r
+*	*v	*v
+=30	=30
+*	*MM184
+4BB-/	4b-\
+*clefG2	*
+4f/ 4a-/	8dd\L
+.	8ee-\J
+4B-/ 4a-/	4ff\
+=31	=31
+4E-/	4b-\
+4g/	8ee-\L
+.	8ff\J
+4B-/ 4g/	4ee-\ 4gg\
+=32	=32
+!!linebreak:original
+*	*MM186
+4D/	4b-\
+4a-/	8ff\L
+.	8gg\J
+4a-/	4ff\ 4aa-\
+=33	=33
+*clefF4	*
+*	*^
+4E-\	4r	4dd-\ 4gg\ 4bb-\
+4d-\ 4g\	4r	8r
+.	.	8gg\ 8bb-\
+4En\	8r	4dd-'\ 4gg'\
+.	[8bb-/	.
+*	*v	*v
+=34	=34
+*	*MM184
+*	*^
+4F\	8bb-/]	8dd-\L
+.	8r	8bb-\J
+4f\	4r	8ccc\L
+.	.	8bb-\J
+4AA-/	4r	4cc\ 4aa-\
+*	*v	*v
+=35	=35
+*	*MM183
+4BB-/	8bn\L
+.	8aa-\J
+4e-\	8bb-\L
+.	8aa-\J
+4e-\	4b-\ 4gg\
+=36	=36
+*	*MM181
+4BB-/	8b-\L
+.	8gg\J
+4d\	8aa-\L
+.	8gg\J
+4d\	4a-\ 4ff\
+=37	=37
+*^	*
+*	*	*MM166
+4r	2E-\	4ee-\
+4e-/	.	8ee-\L
+.	.	8ee-\J
+4d-/	4r	8ee-\L
+.	.	8ee-\J
+*v	*v	*
+=38	=38
+!!linebreak:original
+*	*MM185
+4AA-/	8ee-\L
+.	8ee-\J
+4E-\ 4c\	8ee-\L
+.	8ee-\J
+4A-\ 4c\	8ee-\L
+.	8ee-\J
+=39	=39
+4AA-/	8ff\L
+.	8ee-\J
+4A-\ 4c\	8cc\L
+.	8a-\J
+4c\	8e-/L
+.	8en/J
+=40	=40
+4AA-/	8f/L
+.	8f/J
+4Bn\	8f/L
+.	8f/J
+4A-\ 4B\	8f/L
+.	8f/J
+=41	=41
+4AA-/	8e-/L
+.	8a-/J
+4A-\ 4c\	8cc\L
+.	8ee-\J
+4A-\ 4c\	8aa-\L
+.	8een\J
+=42	=42
+*	*MM183
+4D\	8ff\L
+.	8ff\J
+*clefG2	*
+4Bn/ 4f/	8ff\L
+.	8ff\J
+4f/	8ff\L
+.	8ff\J
+=43	=43
+!!linebreak:original
+4E-/	12ff\L
+.	12gg\
+.	12ff\J
+4a-/	8ee-\L
+.	8aa-\J
+4e-/ 4a-/	4ccc\
+=44	=44
+4r	4fff\
+4e-/ 4g/	8eee-\L
+.	8ddd-\J
+4g/	4gg\
+=45	=45
+4A-/	4bb-\
+4e-/ 4a-/	8aa-\L
+.	8ee-\J
+4c/ 4a-/	4cc\
+=46	=46
+*	*MM186
+4r	8ee-\L
+.	8ee-\J
+*clefF4	*
+4A-\ 4c\	8ee-\L
+.	8ee-\J
+4c\	8ee-\L
+.	8ee-\J
+=47	=47
+4AA-/	8ff\L
+.	8ee-\J
+4Bn\	8cc\L
+.	8a-\J
+4B\	8e-/L
+.	8en/J
+=48	=48
+4AA-/	8f/L
+.	8f/J
+4Bn\	8f/L
+.	8f/J
+4B\	8f/L
+.	8f/J
+=49	=49
+!!pagebreak:original
+4AA-/	8e-/L
+.	8a-/J
+4c\	8cc\L
+.	8ee-\J
+4c\	8aa-\L
+.	8een\J
+=50	=50
+*	*MM184
+4D\	8ff\L
+.	8ff\J
+*clefG2	*
+4Bn/ 4f/	8ff\L
+.	8ff\J
+4f/	8ff\L
+.	8ff\J
+=51	=51
+4E-/	12ff\L
+.	12gg\
+.	12ff\J
+4a-/	8ee-\L
+.	8aa-\J
+4c/ 4a-/	4ccc\
+=52	=52
+4E-/	4fff\
+4e-/ 4g/	8eee-\L
+.	8ddd-\J
+4g/	4gg\
+=53	=53
+*^	*
+*	*	*MM178
+4r	2A-\	2a-/
+4a-/	.	.
+4f/	4r	24cc\LL
+.	.	24dd\
+.	.	24cc\
+.	.	24dd\
+.	.	24cc\
+.	.	24dd\JJ
+*v	*v	*
+=54	=54
+!!linebreak:original
+*clefF4	*MM184
+4BB-/	4b-\
+*clefG2	*
+4a-/	8dd\L
+.	8ee-\J
+4f/ 4a-/	4ff\
+=55	=55
+4E-/	4b-\
+4e-/ 4g/	8ee-\L
+.	8ff\J
+4B-/ 4g/	4gg\
+=56	=56
+*	*MM186
+4D/	4b-\
+4f/ 4a-/	8ff\L
+.	8gg\J
+4a-/	4ff\
+=57	=57
+*clefF4	*
+*	*^
+4E-\	4gg/	4r
+4B-\ 4e-\	4r	4r
+4En\	8r	4gg\
+.	8bb-/	.
+*	*v	*v
+=58	=58
+*	*MM185
+*	*^
+4F\	4bb-/	2dd-\ 2gg\
+4f\	8ccc/L	.
+.	8bb-/J	.
+4AA-/	4cc/ 4aa-/	4r
+*	*v	*v
+=59	=59
+*	*MM184
+*	*^
+4BB-/	4aa-/	2bn\
+4e-\	8bb-/L	.
+.	8aa-/J	.
+4e-\	4b-/ 4gg/	4r
+*	*v	*v
+=60	=60
+!!linebreak:original
+*	*MM183
+*	*^
+4BB-/	4gg/	2b-\
+4d\	8aa-/L	.
+.	8gg/J	.
+4d\	4a-/ 4ff/	4r
+*	*v	*v
+=61	=61
+*	*MM182
+*	*^
+4r	4ff/	2a-\
+4B-\	8gg/L	.
+.	8ff/J	.
+*	*v	*v
+*	*MM170
+*	*^
+4e-\	4g/ 4ee-/	4r
+*	*v	*v
+=62	=62
+*	*MM184
+4BB-/	8b-\L
+.	8dd\J
+*clefG2	*
+4a-/	8ee-\L
+.	8een\J
+4a-/	4dd\
+=63	=63
+4E-/	8b-\L
+.	8dd\J
+4g/	8ee-\L
+.	8ff\J
+4e-/ 4g/	4ee-\
+=64	=64
+*	*MM186
+4r	8b-\L
+.	8een\J
+4f/ 4a-/	8ff\L
+.	8gg\J
+4a-/	4aa-\
+=65	=65
+!!linebreak:original
+*clefF4	*
+*	*^
+4E-\	4r	2gg\
+4B-\ 4e-\	8r	.
+.	4bb-/	.
+4En\	.	4dd-'\
+.	[8bb-/	.
+*	*v	*v
+=66	=66
+*	*MM185
+*	*^
+4F\	8bb-/]	8dd-\L
+.	8r	8bb-\J
+4f\	4r	8ccc\L
+.	.	8bb-\J
+4AA-/	4r	4cc\
+*	*v	*v
+=67	=67
+*	*MM183
+4BB-/	8bn\L
+.	8aa-\J
+4e-\	8bb-\L
+.	8aa-\J
+4e-\	4b-\
+=68	=68
+*	*MM181
+4BB-/	8b-\L
+.	8gg\J
+4d\	8aa-\L
+.	8gg\J
+4d\	4a-/
+=69	=69
+*	*MM170
+4B-\ 4e-\	4ee-\
+*	*MM182
+4r	8ee-\L
+.	8ee-\J
+4G\ 4d-\	8ee-\L
+.	8ee-\J
+=70	=70
+!!pagebreak:original
+*	*MM185
+4AA-/	8ee-\L
+.	8ee-\J
+4c\	8ee-\L
+.	8ee-\J
+4A-\ 4c\	8ee-\L
+.	8ee-\J
+=71	=71
+4AA-/	8ff\L
+.	8ee-\J
+4c\	8cc\L
+.	8a-\J
+4c\	8e-/L
+.	8en/J
+=72	=72
+4AA-/	8f/L
+.	8f/J
+4A-\ 4Bn\	8f/L
+.	8f/J
+4B\	8f/L
+.	8f/J
+=73	=73
+4AA-/	8e-/L
+.	8a-/J
+4c\	8cc\L
+.	8ee-\J
+4c\	8aa-\L
+.	8een\J
+=74	=74
+*	*MM183
+4D\	8ff\L
+.	8ff\J
+*clefG2	*
+4f/	8ff\L
+.	8ff\J
+4Bn/ 4f/	8ff\L
+.	8ff\J
+=75	=75
+!!linebreak:original
+4E-/	12ff\L
+.	12gg\
+.	12ff\J
+4e-/ 4a-/	8ee-\L
+.	8aa-\J
+4a-/	4ccc\
+=76	=76
+4E-/	4fff\
+4g/	8eee-\L
+.	8ddd-\J
+4e-/ 4g/	4gg\
+=77	=77
+4r	4bb-\
+4e-/ 4a-/	8aa-\L
+.	8ee-\J
+4a-/	4cc\
+=78	=78
+*clefF4	*MM186
+4AA-/	8ee-\L
+.	8ee-\J
+4c\	8ee-\L
+.	8ee-\J
+4A-\ 4c\	8ee-\L
+.	8ee-\J
+=79	=79
+4AA-/	8ff\L
+.	8ee-\J
+4A-\ 4Bn\	8cc\L
+.	8a-\J
+4B\	8e-/L
+.	8en/J
+=80	=80
+!!linebreak:original
+4AA-/	8f/L
+.	8f/J
+4Bn\	8f/L
+.	8f/J
+4B\	8f/L
+.	8f/J
+=81	=81
+4AA-/	8e-/L
+.	8a-/J
+4c\	8cc\L
+.	8ee-\J
+4c\	8aa-\L
+.	8een\J
+=82	=82
+*	*MM184
+4D\	8ff\L
+.	8ff\J
+*clefG2	*
+4Bn/ 4f/	8ff\L
+.	8ff\J
+4A-/ 4f/	8ff\L
+.	8ff\J
+=83	=83
+4E-/	12ff\L
+.	12gg\
+.	12ff\J
+4a-/	8ee-\L
+.	8aa-\J
+4a-/	4ccc\
+=84	=84
+4E-/	4fff\
+4e-/ 4g/	8eee-\L
+.	8ddd-\J
+4g/	4gg\
+=85	=85
+*clefF4	*MM178
+4AA-/	2aa-\
+4c\	.
+4r	4a-/
+=86	=86
+!!linebreak:original
+*	*MM184
+*	*^
+4AA-/	2gg-/	4ee-\
+*clefG2	*	*
+4c/	.	4r
+4A-/ 4g-/	4r	4bn\ 4dd\
+*	*v	*v
+=87	=87
+*clefF4	*
+4AA-/	4cc\ 4ee-\
+*	*MM176
+4c\	8a-/L
+.	8a-/J
+*	*MM185
+4A-\ 4g-\	4a-/
+=88	=88
+*	*^
+4D-\	2bb-/	4gg-\
+4F\ 4d-\	.	4r
+4A-\ 4f\	4een/ 4ggn/	4r
+*	*v	*v
+=89	=89
+4D-\	4ff\ 4aa-\
+*clefG2	*MM176
+4d-/	8a-/L
+.	8a-/J
+*	*MM183
+4f/	4a-/
+=90	=90
+*clefF4	*
+*	*^
+4AA-/	2gg-/	4ee-\
+4c\	.	4r
+4g-\	4r	4bn\ 4dd\
+*	*v	*v
+=91	=91
+4AA-/	4cc\ 4ee-\
+*	*MM176
+4E-\ 4c\	8a-/L
+.	8a-/J
+*	*MM182
+4g-\	4a-/
+=92	=92
+!!pagebreak:original
+*^	*
+4r	2.D-\	4b-\ 4gg-\
+4A-/	.	4a-\ 4ff\
+*clefG2	*clefG2	*
+4c/	.	4g-\ 4ee-\
+*v	*v	*
+=93	=93
+*	*MM179
+4d-/	4f/ 4dd-/
+4d-/	8a-/L
+.	8a-/J
+4f/	4a-/
+=94	=94
+*clefF4	*MM183
+*	*^
+4AA-/	2gg-/	4ee-\
+4c\	.	4r
+4g-\	4r	4bn\ 4dd\
+*	*v	*v
+=95	=95
+4AA-/	4cc\ 4ee-\
+*	*MM176
+4c\	8a-/L
+.	8a-/J
+*	*MM184
+4g-\	4a-/
+=96	=96
+4D-\	4gg-\ 4bb-\
+*clefG2	*
+4d-/	4r
+4A-/ 4f/	4een\ 4ggn\
+=97	=97
+*clefF4	*
+4D-\	4ff\ 4aa-\
+*	*MM176
+4d-\	8a-/L
+.	8a-/J
+*	*MM183
+4f\	4a-/
+=98	=98
+!!linebreak:original
+*	*^
+4GG-/	4aa-/	4r
+4d\	8b-/L	4r
+.	8aa-/J	.
+4e-\	[4gg-/	4ee-\
+=99	=99	=99
+4AA-/	4gg-/]	4r
+4c\	8r	4a-\
+.	8gg-/	.
+4A-\ 4d-\	4r	[4dd-\ [4ff\
+*	*v	*v
+=100	=100
+4AA-/	2dd-\] 2ff\]
+*clefG2	*
+4c/	.
+4c/	4g-/
+=101	=101
+*	*MM179
+4d-/	4f/
+4r	8a-/L
+.	8a-/J
+4r	4a-/
+=102	=102
+*clefF4	*MM184
+*	*^
+4AA-/	4ee-/	2gg-\
+4c\	4r	.
+4A-\ 4g-\	4r	4bn\ 4dd\
+*	*v	*v
+=103	=103
+4AA-/	4cc\ 4ee-\
+*	*MM176
+4c\	8a-/L
+.	8a-/J
+*	*MM185
+4A-\ 4g-\	4a-/
+=104	=104
+!!linebreak:original
+*	*^
+4D-\	2bb-/	4gg-\
+4F\ 4d-\	.	4r
+4f\	4een/ 4ggn/	4r
+*	*v	*v
+=105	=105
+4D-\	4ff\ 4aa-\
+*clefG2	*MM176
+4d-/	8a-/L
+.	8a-/J
+*	*MM183
+4f/	4a-/
+=106	=106
+*clefF4	*
+*	*^
+4AA-/	2gg-/	4ee-\
+4E-\ 4c\	.	4r
+4g-\	4r	4bn\ 4dd\
+*	*v	*v
+=107	=107
+4AA-/	4cc\ 4ee-\
+*	*MM176
+4c\	8a-/L
+.	8a-/J
+*	*MM181
+4A-\ 4g-\	4a-/
+=108	=108
+*^	*
+4r	2.D-\	4b-\ 4gg-\
+4A-/	.	4a-\ 4ff\
+*clefG2	*clefG2	*
+4c/	.	4g-\ 4ee-\
+*v	*v	*
+=109	=109
+*	*MM179
+4d-/	4f/ 4dd-/
+4d-/	8a-/L
+.	8a-/J
+4f/	4a-/
+=110	=110
+!!linebreak:original
+*clefF4	*MM183
+*	*^
+4AA-/	2gg-/	4ee-\
+4c\	.	4r
+4A-\ 4g-\	4r	4bn\ 4dd\
+*	*v	*v
+=111	=111
+4AA-/	4cc\ 4ee-\
+*	*MM176
+4c\	8a-/L
+.	8a-/J
+*	*MM183
+4A-\ 4g-\	4a-/
+=112	=112
+4D-\	4gg-\ 4bb-\
+*clefG2	*
+4d-/	4r
+4f/	4een\ 4ggn\
+=113	=113
+*clefF4	*
+4D-\	4ff\ 4aa-\
+*	*MM176
+4d-\	8a-/L
+.	8a-/J
+*	*MM183
+4A-\ 4f\	4a-/
+=114	=114
+*	*^
+4GG-/	4aa-/	4r
+4G-\ 4d\	8b-/L	4r
+.	8aa-/J	.
+4B-\ 4e-\	[4gg-/	4ee-\
+=115	=115	=115
+4AA-/	4gg-/]	4r
+4F\ 4c\	8r	4a-\
+.	8gg-/	.
+4d-\	4r	[4dd-\ [4ff\
+*	*v	*v
+=116	=116
+!!pagebreak:original
+4r	2dd-\] 2ff\]
+4A-\ 4c\	.
+4A-\ 4c\	4g-/
+=117	=117
+4A-\ 4d-\	4f/ 4dd-/
+*	*MM180
+4r	8a-/L
+.	8a-/J
+4A-\ 4d-\	4a-\ 4ff\
+=118	=118
+*	*MM185
+*	*^
+4B-\ 4d-\	12ff/	4r
+.	[6ee-/	.
+4r	4ee-/]	4g\
+4B-\ 4d-\	12ff/	4r
+.	[6ee-/	.
+=119	=119	=119
+4E-\ 4d-\	4g/ 4ee-/]	4r
+4r	12ff/	4r
+.	[6ee-/	.
+4B-\ 4d-\	4ee-/]	4g\
+*	*v	*v
+=120	=120
+4AA-/	8a-\L
+.	8cc\J
+4A-\ 4c\	8ee-\L
+.	8aa-\J
+4c\	4ccc\
+=121	=121
+*^	*
+4r	4AA-\	12aa-\L
+.	.	12bb-\
+.	.	12aa-\J
+4Bn/	8r	8ff\L
+.	8F\	8dd\J
+4r	4c\	4ee-\
+*v	*v	*
+=122	=122
+!!linebreak:original
+*	*MM182
+4d-\	12ff\
+.	6g/
+4r	4g/
+4B-\ 4d-\	12ff\
+.	[6ee-\
+=123	=123
+4B-\ 4d-\	4g\ 4ee-\]
+4r	12ff\
+.	6g/
+4d-\	4g/
+=124	=124
+*	*^
+4EE-/	12r	4e-'\
+.	12f/L	.
+.	12e-/J	.
+4d-\	8d/L	4r
+.	8e-/J	.
+4d-\	8cc/L	4r
+.	8b-/J	.
+*	*v	*v
+=125	=125
+4AA-/	8a-/L
+.	8g/J
+*clefG2	*
+4c/	8a-/L
+.	8b-/J
+4c/	8cc\L
+.	8dd-\J
+=126	=126
+*	*MM184
+4d-/	12ff\
+.	6g/
+4r	4g/
+4d-/	12ff\
+.	6g/
+=127	=127
+4d-/	4g/
+4r	12ff\
+.	6g/
+4B-/ 4d-/	4g/
+=128	=128
+!!linebreak:original
+4r	8a-\L
+.	8cc\J
+*clefF4	*
+4c\	8ee-\L
+.	8aa-\J
+4c\	4ccc\
+=129	=129
+*^	*
+4r	4AA-\	12aa-\L
+.	.	12bb-\
+.	.	12aa-\J
+4Bn/	8r	8ff\L
+.	8F\	8dd\J
+4r	4A-\ 4c\	4ee-\
+*v	*v	*
+=130	=130
+*	*MM181
+4d-\	12ff\
+.	6g/
+4r	4g/
+4B-\ 4d-\	12ff\
+.	[6ee-\
+=131	=131
+*	*^
+4E-\ 4d-\	4g/ 4ee-/]	4r
+4r	12ff/	4r
+.	[6ee-/	.
+4E-\ 4d-\	4ee-/]	4g\
+*	*v	*v
+=132	=132
+*	*MM185
+4c\	8a-/L
+.	8g/J
+4r	8a-/L
+.	8b-/J
+4r	8cc\L
+.	8dd-\J
+=133	=133
+!!linebreak:original
+2.r	8ee-\L
+.	8ff\J
+.	8gg-\L
+.	8ggn\J
+.	8.bb-\L
+.	16aa-\Jk
+=134	=134
+*	*MM183
+*	*^
+4AA-/	4ee-/	2gg-\
+4E-\ 4c\	4r	.
+4g-\	4r	4bn\ 4dd\
+*	*v	*v
+=135	=135
+4AA-/	4cc\ 4ee-\
+*	*MM176
+4c\	8a-/L
+.	8a-/J
+*	*MM185
+4g-\	4a-/
+=136	=136
+*	*^
+4D-\	4bb-/	2gg-\
+*clefG2	*	*
+4d-/	4r	.
+4A-/ 4f/	4r	4een\ 4ggn\
+*	*v	*v
+=137	=137
+*clefF4	*
+4D-\	4ff\ 4aa-\
+*	*MM176
+4d-\	8a-/L
+.	8a-/J
+*	*MM183
+4f\	4a-/
+=138	=138
+*	*^
+4AA-/	2gg-/	4ee-\
+4E-\ 4c\	.	4r
+4g-\	4r	4bn\ 4dd\
+*	*v	*v
+=139	=139
+!!pagebreak:original
+4AA-/	4cc\ 4ee-\
+*clefG2	*MM176
+4c/	8a-/L
+.	8a-/J
+*	*MM181
+4A-/ 4g-/	4a-/
+=140	=140
+*clefF4	*
+*^	*
+4r	2.D-\	4b-\ 4gg-\
+4A-/	.	4a-\ 4ff\
+4c/	.	4g-\ 4ee-\
+*v	*v	*
+=141	=141
+*	*MM179
+4D-\ 4d-\	4f/ 4dd-/
+4d-\	8a-/L
+.	8a-/J
+4f\	4a-/
+=142	=142
+*	*^
+4AA-/	2gg-/	4ee-\
+4E-\ 4c\	.	4r
+*	*v	*v
+*	*MM184
+*	*^
+4A-\ 4g-\	4r	4bn'\ 4dd'\
+*	*v	*v
+=143	=143
+4AA-/	4cc\ 4ee-\
+*clefG2	*MM176
+4c/	8a-/L
+.	8a-/J
+*	*MM184
+4g-/	4a-/
+=144	=144
+*clefF4	*
+*	*^
+4D-\	2bb-/	4gg-\
+4d-\	.	4r
+4f\	4een/ 4ggn/	4r
+*	*v	*v
+=145	=145
+!!linebreak:original
+4D-\	4ff\ 4aa-\
+*	*MM176
+4F\ 4d-\	8a-/L
+.	8a-/J
+*	*MM183
+4f\	4a-/
+=146	=146
+*	*^
+4GG-/	4aa-/	4r
+4d\	8b-/L	4r
+.	8aa-/J	.
+4e-\	[4gg-/	4ee-\
+=147	=147	=147
+4AA-/	8gg-/]	4r
+.	8r	.
+4c\	8r	4a-\
+.	8gg-/	.
+4d-\	[4ff/	4dd-\
+=148	=148	=148
+4AA-/	8ff/]	4r
+.	8r	.
+*clefG2	*	*
+4c/	8r	4g-\
+.	8ff/	.
+4c/	4ee-/	4r
+*	*v	*v
+=149	=149
+*	*MM160
+4d-/	4f/
+*	*MM179
+4r	8d-/L
+.	8d-/J
+4r	4d-/
+=150	=150
+!!linebreak:original
+*clefF4	*MM186
+4DD-/	4f/ 4a-/
+4D-\ 4Bn\	4r
+4D-\ 4B\	4f/ 4a-/
+=151	=151
+*	*^
+4DD-/	24a-/LL	16r
+.	24b-/	.
+.	.	[8.f\
+.	[24a-/JJ	.
+.	4a-/]	.
+4A-\ 4Bn\	.	16f\]
+.	.	16r
+.	8e-/ 8g-/	8r
+4A-\ 4B\	4f/ 4a-/	4r
+*	*v	*v
+=152	=152
+4GG-/	4g-/ 4b-/
+4B-\	4r
+4B-\	4b-\ 4dd-\
+=153	=153
+*	*^
+4GG-/	2gg-/	2.b-\
+4D\ 4B-\	.	.
+4B-\	4r	.
+*	*v	*v
+=154	=154
+*	*MM183
+4AA-/	4a-\ 4ff\
+4c\	8r
+.	8ee-\
+4c\	4g-\ 4ee-\
+=155	=155
+4AA-/	4a-\ 4ff\
+4A-\ 4c\	8r
+.	8ee-\
+4A-\ 4c\	4g-\ 4ee-\
+=156	=156
+!!linebreak:original
+4AA-/	4a-\ 4ff\
+4E-\ 4c\	8r
+.	8ee-\
+4A-\ 4c\	4g-\ 4ee-\
+=157	=157
+2.D-\	4en/ 4cc/
+.	8r
+.	8dd-\
+.	4f/ 4dd-/
+=158	=158
+*	*MM185
+4D-\	4ff\ 4aa-\
+*clefG2	*
+4d-/ 4bn/	8r
+.	8ff\ 8aa-\
+4d-/ 4b/	4ff\ 4aa-\
+=159	=159
+*clefF4	*
+*	*^
+4D-\	24aa-/LL	16r
+.	24bb-/	.
+.	.	[8.ff\
+.	[24aa-/JJ	.
+.	4aa-/]	.
+*clefG2	*	*
+4bn\	.	16ff\]
+.	.	16r
+.	8ee-/ 8gg-/	8r
+4b\	4ff/ 4aa-/	4r
+*	*v	*v
+=160	=160
+4G-/	4gg-\ 4bb-\
+4d-/ 4b-/	4r
+4b-\	4bb-\ 4ddd-\
+=161	=161
+!!pagebreak:original
+*	*^
+4G-/	4bbb-/	2bb-\
+4b-\	4r	.
+4b-\	4r	4r
+*	*v	*v
+=162	=162
+*	*MM183
+4A-/	4aa-\ 4fff\
+4cc\	8r
+.	8eee-\
+4a-\ 4cc\	4gg-\ 4eee-\
+=163	=163
+4A-/	4aa-\ 4fff\
+4cc\	8r
+.	8eee-\
+4cc\	4gg-\ 4eee-\
+=164	=164
+4A-/	4aa-\ 4fff\
+4cc\	8r
+.	8eee-\
+4a-\ 4cc\	4gg-\ 4eee-\
+=165	=165
+*	*MM178
+4a-\ 4dd-\	4ff\ 4ddd-\
+4r	4r
+4r	4d-/
+=166	=166
+*clefF4	*MM186
+4DD-/	4f/ 4a-/
+4Bn\	4r
+4B\	4f/ 4a-/
+=167	=167
+!!linebreak:original
+*	*^
+4DD-/	24a-/LL	16r
+.	24b-/	.
+.	.	[8.f\
+.	[24a-/JJ	.
+.	4a-/]	.
+4A-\ 4Bn\	.	16f\]
+.	.	16r
+.	8e-/ 8g-/	8r
+4B\	4f/ 4a-/	4r
+*	*v	*v
+=168	=168
+4GG-/	4g-/ 4b-/
+4D-\ 4B-\	4r
+4G-\ 4B-\	4b-\ 4dd-\
+=169	=169
+*	*^
+4GG-/	2gg-/	2.b-\
+4D\ 4B-\	.	.
+4B-\	4r	.
+*	*v	*v
+=170	=170
+*	*MM183
+4AA-/	4a-\ 4ff\
+4c\	8r
+.	8ee-\
+4c\	4g-\ 4ee-\
+=171	=171
+4AA-/	4a-\ 4ff\
+4c\	8r
+.	8ee-\
+4c\	4g-\ 4ee-\
+=172	=172
+4AA-/	4a-\ 4ff\
+4E-\ 4c\	8r
+.	8ee-\
+4c\	4g-\ 4ee-\
+=173	=173
+!!linebreak:original
+*	*MM180
+2.D-\	4en/ 4cc/
+.	8r
+.	8dd-\
+.	4f/ 4dd-/
+=174	=174
+*	*MM185
+4D-\	4ff\ 4aa-\
+*clefG2	*
+4a-/ 4bn/	8r
+.	8ff\ 8aa-\
+4d-/ 4b/	4ff\ 4aa-\
+=175	=175
+*	*^
+4r	24aa-/LL	16r
+.	24bb-'/	.
+.	.	[8.ff\
+.	[24aa-/JJ	.
+.	4aa-/]	.
+4a-/ 4bn/	.	16ff\]
+.	.	16r
+.	8ee-/ 8gg-/	8r
+4a-/ 4b/	4ff/ 4aa-/	4r
+*	*v	*v
+=176	=176
+4r	4gg-\ 4bb-\
+4d-/ 4b-/	4r
+4d-/ 4b-/	4bb-\ 4ddd-\
+=177	=177
+*	*^
+4G-/	4bbb-/	2bb-\
+4b-\	4r	.
+4b-\	4r	4r
+*	*v	*v
+=178	=178
+!!linebreak:original
+*	*MM184
+4A-/	4aa-\ 4fff\
+4a-\ 4cc\	8r
+.	8eee-\
+4a-\ 4cc\	4gg-\ 4eee-\
+=179	=179
+4A-/	4aa-\ 4fff\
+4a-\ 4cc\	8r
+.	8eee-\
+4cc\	4gg-\ 4eee-\
+=180	=180
+4A-/	4aa-\ 4fff\
+4cc\	8r
+.	8eee-\
+4a-\ 4cc\	4gg-\ 4eee-\
+=181	=181
+*	*MM176
+4d-/ 4dd-/	4ff\ 4ddd-\
+4r	4r
+4r	4gg-\
+=182	=182
+*clefF4	*MM185
+4BB-/	24ff\LK
+.	[12gg-\
+.	12.gg-\J]
+4F\ 4d-\	24gg-\LK
+.	[12een\
+.	12.ee\J]
+4d-\	24ee-\LK
+.	[12ff\
+.	12.ff\J]
+=183	=183
+!!pagebreak:original
+4AAn/	24ff\LK
+.	[12gg-\
+.	12.gg-\J]
+4c\ 4e-\	24gg-\LK
+.	[12een\
+.	12.ee\J]
+4F\ 4e-\	24ee-\LK
+.	[12ff\
+.	12.ff\J]
+=184	=184
+4BB-/	24fff\LK
+.	[12ddd-\
+.	12.ddd-\J]
+4B-\ 4d-\	24ddd-\LK
+.	[12ccc\
+.	12.ccc\J]
+4d-\	24ccc\LK
+.	[12bbn\
+.	12.bb\J]
+=185	=185
+4E-\	24bbn\LK
+.	[12bb-\
+.	12.bb-\J]
+*clefG2	*
+4g-/	24bb-\LK
+.	[12aan\
+.	12.aa\J]
+4c/ 4g-/	24aa\LK
+.	[12aa-\
+.	12.aa-\J]
+=186	=186
+!!linebreak:original
+4F/	32aa-\
+.	64r
+.	[64gg\LKKK
+.	8.gg\J]
+4d-/ 4f/	24gg\LK
+.	[12gg-\
+.	12.gg-\J]
+4f/	24gg-\LK
+.	[12ff\
+.	12.ff\J]
+=187	=187
+4F/	24ff\LK
+.	[12een\
+.	12.ee\J]
+4f/	24ee\LK
+.	[12ee-\
+.	12.ee-\J]
+4An/ 4f/	24ee-\LK
+.	[12cc\
+.	12.cc\J]
+=188	=188
+*clefF4	*
+4BB-/	24ff\LK
+.	[12dd-\
+.	12.dd-\J]
+4d-\	24gg-\LK
+.	[12an\
+.	12.a\J]
+4d-\	24a-/LK
+.	[12b-/
+.	12.b-/J]
+=189	=189
+!!linebreak:original
+4BB-/	24b-\LK
+.	[12dd-\
+.	12.dd-\J]
+4d-\	24dd-\LK
+.	[12ee-\
+.	12.ee-\J]
+4d-\	24ee-\LK
+.	[12een\
+.	12.ee\J]
+=190	=190
+*	*MM184
+4BB-/	32een\
+.	64r
+.	[64gg-\LKKK
+.	8.gg-\J]
+4d-\	24gg-\LK
+.	[12ee\
+.	12.ee\J]
+4d-\	24ee\LK
+.	[12ff\
+.	12.ff\J]
+=191	=191
+4AAn/	24ff\LK
+.	[12gg-\
+.	12.gg-\J]
+4e-\	24gg-\LK
+.	[12een\
+.	12.ee\J]
+4c\ 4e-\	24ee\LK
+.	[12ff\
+.	12.ff\J]
+=192	=192
+!!linebreak:original
+4BB-/	24ff\LK
+.	[12fff\
+.	12.fff\J]
+4B-\ 4d-\	24fff\LK
+.	[12ddd-\
+.	12.ddd-\J]
+4d-\	24ddd-\LK
+.	[12bb-\
+.	12.bb-\J]
+=193	=193
+4E-\	24bb-\LK
+.	[12gg-\
+.	12.gg-\J]
+*clefG2	*
+4g-/	24gg-\LK
+.	[12ee-\
+.	12.ee-\J]
+4g-/	24ee-\LK
+.	[12cc\
+.	12.cc\J]
+=194	=194
+4F/	24gg-\LK
+.	[12ff\
+.	12.ff\J]
+4f/	24ff\LK
+.	[12een\
+.	12.ee\J]
+4d-/ 4f/	24ee\LK
+.	[12ee-\
+.	12.ee-\J]
+=195	=195
+!!pagebreak:original
+4F/	24ee-\LK
+.	[12dd\
+.	12.dd\J]
+4e-/ 4f/	24dd\LK
+.	[12dd-\
+.	12.dd-\J]
+4e-/ 4f/	24dd-\LK
+.	[12cc\
+.	12.cc\J]
+=196	=196
+4d-/ 4f/	32cc\
+.	[32bn\LKKK
+.	8.b\J]
+4r	24b\LK
+.	[12b-\
+.	12.b-\J]
+4r	24b-/LK
+.	[12an/
+.	12.a/J]
+=197	=197
+2.r	24an/LK
+.	[12a-/
+.	12.a-/J]
+.	24a-/LK
+.	[12g/
+.	12.g/J]
+.	24g/LK
+.	[12g-/
+.	12.g-/J]
+=198	=198
+!!linebreak:original
+*clefF4	*MM185
+4DD-/	4f/ 4a-/
+4A-\ 4Bn\	8r
+.	8f/ 8a-/
+4D-\ 4B\	4f/ 4a-/
+=199	=199
+*	*^
+4DD-/	24a-/LL	16r
+.	24b-/	.
+.	.	[8.f\
+.	[24a-/JJ	.
+.	4a-/]	.
+4Bn\	.	16f\]
+.	.	16r
+.	8e-/ 8g-/	8r
+4B\	4f/ 4a-/	4r
+*	*v	*v
+=200	=200
+4GG-/	4g-/ 4b-/
+4B-\	4r
+4B-\	4b-\ 4dd-\
+=201	=201
+4GG-/	2b-\ 2gg-\
+4B-\	.
+4B-\	4r
+=202	=202
+*	*MM183
+4AA-/	4a-\ 4ff\
+4A-\ 4c\	8r
+.	8ee-\
+4E-\ 4c\	4f\ 4ee-\
+=203	=203
+4AA-/	4a-\ 4ff\
+4A-\ 4c\	8r
+.	8ee-\
+4E-\ 4c\	4g-\ 4ee-\
+=204	=204
+!!linebreak:original
+4AA-/	4a-\ 4ff\
+4E-\ 4c\	8r
+.	8ee-\
+4c\	4g-\ 4ee-\
+=205	=205
+2.D-\	4en/ 4cc/
+.	8r
+.	8dd-\
+.	4f/ 4dd-/
+=206	=206
+*	*MM185
+4D-\	4ff\ 4aa-\
+*clefG2	*
+4d-/ 4bn/	8r
+.	8ff\ 8aa-\
+4a-/ 4b/	4ff\ 4aa-\
+=207	=207
+*clefF4	*
+*	*^
+4D-\	16r	24aa-\LL
+.	.	24bb-'\
+.	[8.aa-/	.
+.	.	[24ff\J
+.	.	12.ff\J]
+*clefG2	*	*
+4a-/ 4bn/	16aa-/]	8r
+.	16r	.
+.	8r	8ee-\ 8gg-\
+4a-/ 4b/	4r	4ff\ 4aa-\
+*	*v	*v
+=208	=208
+!!linebreak:original
+4G-/	4gg-\ 4bb-\
+4b-\	4r
+4g-/ 4b-/	4bb-\ 4ddd-\
+=209	=209
+*	*^
+4G-/	2.ggg-/	2bb-\
+4b-\	.	.
+4b-\	.	4r
+*	*v	*v
+=210	=210
+*	*MM182
+4A-/	4aa-\ 4fff\
+4cc\	8r
+.	8eee-\
+4a-\ 4cc\	4gg-\ 4eee-\
+=211	=211
+4A-/	4aa-\ 4fff\
+4e-/ 4cc/	8r
+.	8eee-\
+4cc\	4gg-\ 4eee-\
+=212	=212
+4A-/	4aa-\ 4fff\
+4cc\	8r
+.	8eee-\
+4e-/ 4cc/	4gg-\ 4eee-\
+=213	=213
+*	*MM174
+4dd-\	4ff\ 4ddd-\
+4r	4r
+*	*MM184
+4r	4d-/
+=214	=214
+!!pagebreak:original
+*clefF4	*
+4BB-/	24ff\LK
+.	[12gg-\
+.	12.gg-\J]
+4d-\	24gg-\LK
+.	[12een\
+.	12.ee\J]
+4d-\	24ee-\LK
+.	[12ff\
+.	12.ff\J]
+=215	=215
+4AAn/	24ff\LK
+.	[12gg-\
+.	12.gg-\J]
+4e-\	24gg-\LK
+.	[12een\
+.	12.ee\J]
+4c\ 4e-\	24ee-\LK
+.	[12ff\
+.	12.ff\J]
+=216	=216
+4BB-/	24fff\LK
+.	[12ddd-\
+.	12.ddd-\J]
+4d-\	24ddd-\LK
+.	[12ccc\
+.	12.ccc\J]
+4d-\	24ccc\LK
+.	[12bbn\
+.	12.bb\J]
+=217	=217
+!!linebreak:original
+4E-\	24bbn\LK
+.	[12bb-\
+.	12.bb-\J]
+*clefG2	*
+4g-/	24bb-\LK
+.	[12aan\
+.	12.aa\J]
+4c/ 4g-/	24aa\LK
+.	[12aa-\
+.	12.aa-\J]
+=218	=218
+4r	32aa-\LLK
+.	[16.gg\J
+.	8gg\J]
+4d-/ 4f/	24gg\LK
+.	[12gg-\
+.	12.gg-\J]
+4f/	24gg-\LK
+.	[12ff\
+.	12.ff\J]
+=219	=219
+4F/	24ff\LK
+.	[12een\
+.	12.ee\J]
+4An/ 4f/	24ee\LK
+.	[12ee-\
+.	12.ee-\J]
+4e-/ 4f/	24ee-\LK
+.	[12cc\
+.	12.cc\J]
+=220	=220
+!!linebreak:original
+*clefF4	*
+4BB-/	32ff\LLK
+.	[16.dd-\J
+.	8dd-\J]
+4d-\	24gg-\LK
+.	[12an\
+.	12.a\J]
+4d-\	24a-/LK
+.	[12b-/
+.	12.b-/J]
+=221	=221
+4BB-/	32b-\
+.	[32dd-\LKKK
+.	8.dd-\J]
+4d-\	24dd-\LK
+.	[12ee-\
+.	12.ee-\J]
+4F\ 4d-\	24ee-\LK
+.	[12een\
+.	12.ee\J]
+=222	=222
+*	*MM183
+4BB-/	24een\LK
+.	[12gg-\
+.	12.gg-\J]
+4d-\	24gg-\LK
+.	[12ee\
+.	12.ee\J]
+4d-\	24ee\LK
+.	[12ff\
+.	12.ff\J]
+=223	=223
+!!linebreak:original
+4AAn/	24ff\LK
+.	[12gg-\
+.	12.gg-\J]
+4c\ 4e-\	24gg-\LK
+.	[12een\
+.	12.ee\J]
+4c\ 4e-\	24ee\LK
+.	[12ff\
+.	12.ff\J]
+=224	=224
+4BB-/	24ff\LK
+.	[12fff\
+.	12.fff\J]
+4d-\	24fff\LK
+.	[12ddd-\
+.	8ddd-\J]
+4F\ 4d-\	24ddd-\LK
+.	[12bb-\
+.	12.bb-\J]
+=225	=225
+4E-\	24bb-\LK
+.	[12gg-\
+.	12.gg-\J]
+*clefG2	*
+4g-/	24gg-\LK
+.	[12ee-\
+.	12.ee-\J]
+4c/ 4g-/	24ee-\LK
+.	[12cc\
+.	12.cc\J]
+=226	=226
+!!pagebreak:original
+4F/	24gg-\LK
+.	[12ff\
+.	12.ff\J]
+4d-/ 4f/	24ff\LK
+.	[12een\
+.	12.ee\J]
+4d-/ 4f/	24ee\LK
+.	[12ee-\
+.	12.ee-\J]
+=227	=227
+4F/	24ee-\LK
+.	[12dd\
+.	12.dd\J]
+4f/	24dd\LK
+.	[12dd-\
+.	12.dd-\J]
+4f/	24dd-\LK
+.	[12cc\
+.	12.cc\J]
+=228	=228
+4d-/ 4f/	24cc\LK
+.	[12bn\
+.	12.b\J]
+4r	24b\LK
+.	[12b-\
+.	12.b-\J]
+4r	24b-/LK
+.	[12an/
+.	12.a/J]
+=229	=229
+!!linebreak:original
+2.r	24an/LK
+.	[12a-/
+.	12.a-/J]
+.	24a-/LK
+.	[12g/
+.	12.g/J]
+.	24g/LK
+.	[12g-/
+.	12.g-/J]
+=230	=230
+*clefF4	*MM186
+4DD-/	4f/ 4a-/
+4D-\ 4Bn\	8r
+.	8f/ 8a-/
+4B\	4f/ 4a-/
+=231	=231
+*	*^
+4DD-/	24r	16a-'\LK
+.	24b-/LL	.
+.	.	[8.f\J
+.	[24a-/JJ	.
+.	4a-/]	.
+4A-\ 4Bn\	.	16f\]
+.	.	16r
+.	8e-/ 8g-/	8r
+4B\	4f/ 4a-/	4r
+*	*v	*v
+=232	=232
+4GG-/	4g-/ 4b-/
+4G-\ 4B-\	4r
+4B-\	4b-\ 4dd-\
+=233	=233
+4GG-/	2b-\ 2gg-\
+4B-\	.
+4B-\	4r
+=234	=234
+!!linebreak:original
+*	*MM183
+4r	4a-\ 4ff\
+4A-\ 4c\	8r
+.	8ee-\
+4c\	4f\ 4ee-\
+=235	=235
+4AA-/	4a-\ 4ff\
+4E-\ 4c\	8r
+.	8ee-\
+4c\	4g-\ 4ee-\
+=236	=236
+4AA-/	4a-\ 4ff\
+4E-\ 4c\	8r
+.	8ee-\
+4A-\ 4c\	4g-\ 4ee-\
+=237	=237
+*	*MM180
+2.D-\	4en/ 4cc/
+.	8r
+.	8dd-\
+.	4f/ 4dd-/
+=238	=238
+*	*MM185
+4D-\	4ff\ 4aa-\
+*clefG2	*
+4d-/ 4bn/	8r
+.	8ff\ 8aa-\
+4b\	4ff\ 4aa-\
+=239	=239
+!!linebreak:original
+*clefF4	*
+*	*^
+4D-\	16aa-'/LK	24r
+.	.	24bb-\LL
+.	[8.aa-/J	.
+.	.	[24ff\J
+.	.	12.ff\J]
+*clefG2	*	*
+4d-/ 4bn/	16aa-/]	8r
+.	16r	.
+.	8r	8ee-\ 8gg-\
+4b\	4r	4ff\ 4aa-\
+*	*v	*v
+=240	=240
+4G-/	4gg-\ 4bb-\
+4b-\	4r
+4g-/ 4b-/	4bb-\ 4ddd-\
+=241	=241
+*	*^
+4G-/	2.ggg-/	2bb-\
+4d/ 4b-/	.	.
+4b-\	.	4r
+*	*v	*v
+=242	=242
+*	*MM184
+4A-/	4aa-\ 4fff\
+4cc\	8r
+.	8eee-\
+4a-\ 4cc\	4gg-\ 4eee-\
+=243	=243
+4r	4aa-\ 4fff\
+4a-\ 4cc\	8r
+.	8eee-\
+4a-\ 4cc\	4gg-\ 4eee-\
+=244	=244
+!!pagebreak:original
+4A-/	4aa-\ 4fff\
+4a-\ 4cc\	8r
+.	8eee-\
+4a-\ 4cc\	4gg-\ 4eee-\
+=245	=245
+*	*MM172
+4dd-\	4ff\ 4ddd-\
+4r	4r
+*	*MM181
+4r	8dd-\L
+.	8dd-\J
+=246	=246
+*clefF4	*MM184
+4BB-/	8dd-\L
+.	8ee-\J
+4d-\	8dd-\L
+.	8cc\J
+4d-\	8dd-\L
+.	8ddn\J
+=247	=247
+4BBn/	2ff\
+4A-\ 4e-\	.
+4G-\ 4e-\	4ee-\
+=248	=248
+4D-\	8a-/L
+.	8b-/J
+4Bn\	8a-/L
+.	8g/J
+4F\ 4B\	8a-/L
+.	8an/J
+=249	=249
+4GG-/	4b-\
+4B-\	8g-/L
+.	8b-/J
+4D-\ 4B-\	8bn\L
+.	8cc\J
+=250	=250
+!!linebreak:original
+*	*MM183
+4BB-/	8dd-\L
+.	8cc\J
+4G-\ 4d-\	8dd-\L
+.	8bb-\J
+4G-\ 4d-\	8aa-\L
+.	8gg-\J
+=251	=251
+4BBn/	2ff\
+4G-\ 4e-\	.
+4A-\ 4e-\	4ee-\
+=252	=252
+*	*MM185
+4D-\	12a-/L
+.	12b-/
+.	12a-/J
+4F\ 4Bn\	8g/L
+.	8a-/J
+4B\	8bn/L
+.	8b-/J
+=253	=253
+4GG-/	8g-/L
+.	8c/J
+4B-\	8d-/L
+.	8f/J
+4D-\ 4B-\	8g-/L
+.	8b-/J
+=254	=254
+*	*MM184
+4BB-/	8dd-\L
+.	8ee-\J
+4d-\	8dd-\L
+.	8cc\J
+4G-\ 4d-\	8dd-\L
+.	8ddn\J
+=255	=255
+!!linebreak:original
+4BBn/	24dd\LK
+.	[12ff\J
+.	4.ff\]
+4e-\	.
+4e-\	4ee-\
+=256	=256
+4D-\	8a-/L
+.	8b-/J
+4Bn\	8a-/L
+.	8g/J
+4B\	8a-/L
+.	8an/J
+=257	=257
+4GG-/	4b-\
+4B-\	8g-/L
+.	8b-/J
+4B-\	8bn\L
+.	8cc\J
+=258	=258
+*	*MM183
+4BB-/	8dd-\L
+.	8cc\J
+4d-\	12dd-\L
+.	12bbn\
+.	12bb-\J
+4G-\ 4d-\	12bb-\L
+.	12aa-\
+.	12gg-\J
+=259	=259
+4BBn/	2ff\
+4e-\	.
+4A-\ 4e-\	4ee-\
+=260	=260
+!!linebreak:original
+*	*MM186
+4r	12a-/L
+.	12b-/
+.	12a-/J
+4Bn\	8g/L
+.	8a-/J
+4B\	8bn/L
+.	8b-/J
+=261	=261
+*	*MM180
+4GG-/	4g-/
+4B-\	4r
+*	*MM184
+4r	8b-\L
+.	8b-\J
+=262	=262
+4r	4b-\
+4r	4r
+*clefG2	*
+4B-/ 4f/	8b-\L
+.	8b-\J
+=263	=263
+4G/ 4en/	4b-\
+4r	4r
+*clefF4	*
+4B-\ 4e-\	8b-\L
+.	8b-\J
+=264	=264
+*	*MM181
+*	*^
+4d\	4r	4b-\
+8BB-/L	4bb-/	4b-'/
+8BB-/J	.	.
+4BB-/	4r	4bb-\
+*	*v	*v
+=265	=265
+!!pagebreak:original
+*	*^
+8BB-/L	4r	4bb-\
+8BB-/J	.	.
+4BB-/	4bb-/	4b-'
+8BB-/L	8bb-/L	4r
+8BB-/J	8bb-/J	.
+=266	=266	=266
+4BB-/	4b-/ 4bb-/	4r
+4r	4r	4r
+*	*MM183	*
+4AA-\ 4A-\	8B-/L 8b-/	4f\
+.	8B-/J 8b-/	.
+=267	=267	=267
+4G\	4B-/ 4en/ 4b-/	4r
+4r	4r	4r
+4G-\	[8e-/L	4B-'\ 4b-'\
+.	8B-/J 8e-/] 8b-/	.
+=268	=268	=268
+4F\	4r	4B-\ 4d\ 4b-\
+4r	8r	4B-'\
+.	4.b-'/	.
+4r	.	4B-\
+*	*v	*v
+=269	=269
+2.r	8B-/L 8b-/
+.	8B-/J 8b-/
+.	4B-/ 4b-/
+.	8B-/L 8b-/
+.	8B-/J 8b-/
+=270	=270
+*	*MM184
+4BB-/	4B-/ 4b-/
+*clefG2	*
+4a-/	8dd\L
+.	8ee-\J
+4a-/	4dd'\ 4ff'\
+=271	=271
+!!linebreak:original
+4E-/	4b-\
+4g/	8ee-\L
+.	8ff\J
+4e-/ 4g/	4ee-\ 4gg\
+=272	=272
+*	*MM187
+4D/	4b-\
+4f/ 4a-/	8ff\L
+.	8gg\J
+4B-/ 4a-/	4ff\ 4aa-\
+=273	=273
+*clefF4	*
+*	*^
+4E-\	4r	4dd-\ 4gg\ 4bb-\
+4e-\	4r	4r
+4En\	4gg/	8r
+.	.	8dd-\
+*	*v	*v
+=274	=274
+*	*MM185
+*	*^
+4F\	4bb-/	2dd-\ 2gg\
+4f\	8ccc/L	.
+.	8bb-/J	.
+4AA-/	4cc/ 4aa-/	4r
+*	*v	*v
+=275	=275
+*	*MM184
+*	*^
+4BB-/	4aa-/	2bn\
+4e-\	8bb-/L	.
+.	8aa-/J	.
+4G\ 4e-\	4b-/ 4gg/	4r
+*	*v	*v
+=276	=276
+*	*MM183
+*	*^
+4BB-/	4gg/	2b-\
+4d\	8aa-/L	.
+.	8gg/J	.
+4d\	4a-/ 4ff/	4r
+*	*v	*v
+=277	=277
+!!linebreak:original
+*^	*
+*	*	*MM181
+*	*	*^
+4r	2.E-\	4ff/	2a-\
+*clefG2	*clefG2	*	*
+4e-/	.	8gg/L	.
+.	.	8ff/J	.
+4e-/	.	4g/ 4ee-/	4r
+*v	*v	*	*
+*	*v	*v
+=278	=278
+*	*MM184
+4r	4b-'\ 4bb-'\
+4f/ 4a-/	8dd\L
+.	8ee-\J
+4B-/ 4a-/	4dd'\ 4ff'\
+=279	=279
+4E-/	4b-'\ 4bb-'\
+4g/	8ee-\L
+.	8ff\J
+4g/	4ee-'\ 4gg'\
+=280	=280
+*	*MM187
+4D/	4b-'\ 4bb-'\
+4f/ 4a-/	8ff\L
+.	8gg\J
+4f/ 4a-/	4ff\ 4aa-\
+=281	=281
+*	*^
+4r	4.gg/	4dd-'\ 4bb-'\
+4B-/ 4e-/	.	4r
+.	8gg/	.
+4r	8dd-/L	4r
+.	8gg/J	.
+*	*v	*v
+=282	=282
+*	*MM184
+*	*^
+4r	[8gg/L	4dd-'\
+.	8gg/J] 8bb-/	.
+4f/	8ccc/L	4r
+.	8bb-/J	.
+*clefF4	*	*
+4AA-/	4cc/ 4aa-/	4r
+*	*v	*v
+=283	=283
+!!linebreak:original
+*	*MM183
+4BB-/	8bn\L
+.	8aa-\J
+4G\ 4e-\	8bb-\L
+.	8aa-\J
+4e-\	4b-\ 4gg\
+=284	=284
+*	*MM181
+4BB-/	8b-\L
+.	8gg\J
+4F\ 4d\	8aa-\L
+.	8gg\J
+4d\	4a-\ 4ff\
+=285	=285
+*	*MM166
+4e-\	4ee-\
+*	*MM183
+4r	8ee-\L
+.	8ee-\J
+4d-\	8ee-\L
+.	8ee-\J
+=286	=286
+*	*MM185
+4AA-/	8ee-\L
+.	8ee-\J
+4c\	8ee-\L
+.	8ee-\J
+4c\	8ee-\L
+.	8ee-\J
+=287	=287
+4AA-/	8ff\L
+.	8ee-\J
+4c\	8cc\L
+.	8a-\J
+4c\	8e-/L
+.	8en/J
+=288	=288
+4AA-/	8f/L
+.	8f/J
+4A-\ 4Bn\	8f/L
+.	8f/J
+4B\	8f/L
+.	8f/J
+=289	=289
+!!pagebreak:original
+4AA-/	8e-/L
+.	8a-/J
+4A-\ 4c\	8cc\L
+.	8ee-\J
+4E-\ 4c\	8aa-\L
+.	8een\J
+=290	=290
+*	*MM183
+4D\	8ff\L
+.	8ff\J
+*clefG2	*
+4Bn/ 4f/	8ff\L
+.	8ff\J
+4A-/ 4f/	8ff\L
+.	8ff\J
+=291	=291
+*	*^
+4E-/	12r	4ff'\
+.	12gg/L	.
+.	12ff/J	.
+4a-/	8ee-/L	4r
+.	8aa-/J	.
+4a-/	4ccc/	4r
+*	*v	*v
+=292	=292
+4E-/	4fff\
+4d-/ 4g/	8eee-\L
+.	8ddd-\J
+4g/	4gg\
+=293	=293
+4A-/	4bb-\
+4c/ 4a-/	8aa-\L
+.	8ee-\J
+4c/ 4a-/	4cc\
+=294	=294
+!!linebreak:original
+*clefF4	*MM186
+4AA-/	8ee-\L
+.	8ee-\J
+4c\	8ee-\L
+.	8ee-\J
+4c\	8ee-\L
+.	8ee-\J
+=295	=295
+4AA-/	8ff\L
+.	8ee-\J
+4D\ 4Bn\	8cc\L
+.	8a-\J
+4B\	8e-/L
+.	8en/J
+=296	=296
+4AA-/	8f/L
+.	8f/J
+4Bn\	8f/L
+.	8f/J
+4B\	8f/L
+.	8f/J
+=297	=297
+4AA-/	8e-/L
+.	8a-/J
+4A-\ 4c\	8cc\L
+.	8ee-\J
+4c\	8aa-\L
+.	8een\J
+=298	=298
+*	*MM184
+4D\	8ff\L
+.	8ff\J
+*clefG2	*
+4f/	8ff\L
+.	8ff\J
+4Bn/ 4f/	8ff\L
+.	8ff\J
+=299	=299
+!!linebreak:original
+4E-/	12ff\L
+.	12gg\
+.	12ff\J
+4e-/ 4a-/	8ee-\L
+.	8aa-\J
+4c/ 4a-/	4ccc\
+=300	=300
+4E-/	4fff\
+4e-/ 4g/	8eee-\L
+.	8ddd-\J
+4e-/ 4g/	4gg\
+=301	=301
+*	*MM177
+4A-/	4aa-\
+4a-/	4r
+4f/ 4a-/	24cc\LL
+.	24dd\
+.	24cc\
+.	24dd\
+.	24cc\
+.	24dd\JJ
+=302	=302
+*	*MM184
+4r	4b-\
+4f/	8dd\L
+.	8ee-\J
+4a-/	4dd'\ 4ff'\
+=303	=303
+4E-/	4b-\
+4g/	8ee-\L
+.	8ff\J
+4B-/ 4g/	4ee-\ 4gg\
+=304	=304
+*	*MM187
+4D/	4b-\
+4f/ 4a-/	8ff\L
+.	8gg\J
+4B-/ 4a-/	4ff\ 4aa-\
+=305	=305
+!!linebreak:original
+*clefF4	*
+*	*^
+4E-\	2bb-/	4dd-\ 4gg\
+4e-\	.	4r
+4En\	8dd-/L	4r
+.	8dd-/J	.
+*	*v	*v
+=306	=306
+*	*MM184
+*	*^
+4F\	4bb-/	2dd-\ 2gg\
+4f\	8ccc/L	.
+.	8bb-/J	.
+4AA-/	4cc/ 4aa-/	4r
+*	*v	*v
+=307	=307
+*	*MM183
+*	*^
+4BB-/	4aa-/	2bn\
+4e-\	8bb-/L	.
+.	8aa-/J	.
+4e-\	4b-/ 4gg/	4r
+*	*v	*v
+=308	=308
+*	*MM181
+*	*^
+4BB-/	4gg/	2b-\
+4d\	8aa-/L	.
+.	8gg/J	.
+4d\	4a-/ 4ff/	4r
+*	*v	*v
+=309	=309
+*^	*
+*	*	*MM179
+*	*	*^
+4r	2.E-\	4ff/	2a-\
+4e-/	.	8gg/L	.
+.	.	8ff/J	.
+4r	.	4g/ 4ee-/	4r
+*v	*v	*	*
+*	*v	*v
+=310	=310
+*	*MM184
+4r	4b-'\ 4bb-'\
+*clefG2	*
+4f/ 4a-/	8dd\L
+.	8ee-\J
+4a-/	4dd\ 4ff\
+=311	=311
+!!pagebreak:original
+4E-/	4b-'\ 4bb-'\
+4g/	8ee-\L
+.	8ff\J
+4g/	4ee-'\ 4gg'\
+=312	=312
+*	*MM187
+4D/	4b-'\ 4bb-'\
+4a-/	8ff\L
+.	8gg\J
+4a-/	4ff\ 4aa-\
+=313	=313
+4g/	4dd-'\ 4gg'\ 4bb-'\
+4r	4r
+4r	4r
+=314	=314
+*	*MM160
+2.r	2.r
+=315	=315
+4r	4r
+*	*MM184
+4r	4r
+*clefF4	*
+4En\	8dd-\L
+.	8dd-\J
+=316	=316
+*	*^
+4F\	4bb-/	2dd-\ 2gg\
+4f\	8ccc/L	.
+.	8bb-/J	.
+4AA-/	4cc/ 4aa-/	4r
+*	*v	*v
+=317	=317
+*	*MM183
+*	*^
+4BB-/	4aa-/	2bn\
+4e-\	8bb-/L	.
+.	8aa-/J	.
+4e-\	4b-/ 4gg/	4r
+*	*v	*v
+=318	=318
+!!linebreak:original
+*	*MM181
+*	*^
+4BB-/	4gg/	2b-\
+4F\ 4d\	8aa-/L	.
+.	8gg/J	.
+4B-\ 4d\	4a-/ 4ff/	4r
+*	*v	*v
+=319	=319
+*	*MM130
+2.r	2.r
+=320	=320
+*	*MM181
+4r	2.r
+4G\	.
+4G\	.
+=321	=321
+4EE-/	2.r
+4G\	.
+4G\	.
+=322	=322
+4EE-/	2.r
+4BB-\ 4G\	.
+4G\	.
+=323	=323
+4EE-/	2.r
+4G\	.
+4G\	.
+=324	=324
+*	*MM185
+4EE-/	8e-/L
+.	8e-/J
+4G\	8e-/L
+.	8e-/J
+4G\	4e-/
+=325	=325
+4EE-/	8G/L
+.	8B-/J
+4G\	8e-/L
+.	8g/J
+4G\	4cc\
+=326	=326
+!!linebreak:original
+4r	24cc\LK
+.	[12bn\
+.	12.b\J]
+*clefG2	*
+4G/ 4d-/	24b\LK
+.	[12b-\
+.	12.b-\J]
+4G/ 4d-/	24b-/LK
+.	[12an/
+.	12.a/J]
+=327	=327
+4G/ 4d-/	24an/LK
+.	[12a-/
+.	12.a-/J]
+4d-/	24a-/LK
+.	[12g/
+.	12.g/J]
+4d-/	24g/LK
+.	[12f/
+.	12.f/J]
+=328	=328
+*clefF4	*MM184
+4EE-/	8e-/L
+.	8e-/J
+4A-\ 4c\	8e-/L
+.	8e-/J
+4c\	4e-/
+=329	=329
+4EE-/	8c/L
+.	8e-/J
+4A-\ 4c\	8a-/L
+.	8cc/J
+4c\	4ff\
+=330	=330
+!!linebreak:original
+4EE-/	24gg\LK
+.	[12ff\
+.	12.ff\J]
+4A-\ 4c\	24ff\LK
+.	[12een\
+.	12.ee\J]
+4c\	24ee\LK
+.	[12ee-\
+.	12.ee-\J]
+=331	=331
+4A-\ 4c\	32ee-\
+.	[32dd\LKKK
+.	8.dd\J]
+4c\	24dd\LK
+.	[12dd-\
+.	12.dd-\J]
+4A-\ 4c\	24dd-\LK
+.	[12cc\
+.	12.cc\J]
+=332	=332
+*	*MM183
+4E-\	8bn\L
+.	8b\J
+4A-\ 4d\	8b\L
+.	8b\J
+4d\	8b\L
+.	8b\J
+=333	=333
+4r	8a-/L
+.	8bn/J
+4A-\ 4d\	8dd\L
+.	8ff\J
+4A-\	4bbn\
+=334	=334
+!!pagebreak:original
+4E-\	24bbn\LK
+.	[12b-\
+.	12.b-\J]
+*clefG2	*
+4d/	24bb-\LK
+.	[12an\
+.	12.a\J]
+4d/	24aan\LK
+.	[12a-\
+.	12.a-\J]
+=335	=335
+4d/	24aa-\LK
+.	[12g\
+.	12.g\J]
+4Bn/ 4d/	24gg\LK
+.	[12g-\
+.	12.g-\J]
+4A-/ 4d/	24gg-\LK
+.	[12f\
+.	12.f\J]
+=336	=336
+*clefF4	*MM184
+4Bn\ 4d\	24fff\LK
+.	[12ggg\
+.	12.ggg\J]
+4E-\ 4d\	24ggg\LK
+.	[12fff\
+.	12.fff\J]
+4B\ 4d\	24fff\LK
+.	[12eeen\
+.	12.eee\J]
+=337	=337
+!!linebreak:original
+4A-\ 4d\	24eeen\LK
+.	[12eee-\
+.	12.eee-\J]
+4Bn\ 4d\	24eee-\LK
+.	[12ddd\
+.	12.ddd\J]
+4E-\ 4d\	24ddd\LK
+.	[12ddd-\
+.	12.ddd-\J]
+=338	=338
+4A-\ 4d\	32ddd-\LLK
+.	[16.ccc\J
+.	8ccc\J]
+4A-\ 4B-\ 4d\	24ccc\LK
+.	[12bbn\
+.	12.bb\J]
+4B-\ 4d\	24bb\LK
+.	[12bb-\
+.	12.bb-\J]
+=339	=339
+4B-\ 4d\	24bb-\LK
+.	[12aan\
+.	12.aa\J]
+4A-\ 4d\	24aa\LK
+.	[12aa-\
+.	12.aa-\J]
+4E-\ 4d\	24aa-\LK
+.	[12ff\
+.	12.ff\J]
+=340	=340
+!!linebreak:original
+*	*MM186
+4E-\	4ee-'\ 4eee-'\
+*clefG2	*MM180
+4e-/ 4b-/	8g/L
+.	8a-/J
+*	*MM185
+4e-/ 4g/ 4b-/	4g'/ 4b-'/
+=341	=341
+4E-/	4ee-'\ 4eee-'\
+*	*MM180
+4an/	8g-/L
+.	8a-/J
+*	*MM186
+4g-/ 4a/	4g-'/ 4an'/
+=342	=342
+4E-/	4ee-\
+*	*MM180
+4f/ 4a-/	8f/L
+.	8g/J
+*	*MM185
+4e-/ 4a-/	4f/
+=343	=343
+4E-/	4b-\
+*	*MM180
+4e-/ 4g/	4r
+*	*MM185
+4e-/ 4g/	8bb-\L
+.	8bb-\J
+=344	=344
+*clefF4	*
+*	*^
+4BB-/	4gg/	2.b-\ 2.bb-\
+*clefG2	*	*
+4B-/ 4d/ 4f/	8aa-/L	.
+.	8gg/J	.
+4B-/ 4d/ 4f/	4ff/	.
+=345	=345	=345
+*clefF4	*	*
+4E-\	4ff/	2.b-\ 2.bb-\
+4B-\ 4e-\	8gg/L	.
+.	8ff/J	.
+4e-\	4ee-/	.
+*	*v	*v
+=346	=346
+!!linebreak:original
+*	*^
+4B-\	2gg/	4ee-\
+4B-\ 4d\	.	8cc\L
+.	.	8b-\J
+4d\	4r	4a-\ 4ff\
+=347	=347	=347
+4EE-/ 4E-/	2ff/	4a-\
+4d-\	.	8b-\L
+.	.	8a-\J
+4B-\ 4d-\	4r	4g\ 4ee-\
+*	*v	*v
+=348	=348
+*	*MM184
+4AA-\ 4A-\	4e-/ 4ee-/
+4c\	8a-/L
+.	8b-/J
+4c\	4a-\ 4cc\
+=349	=349
+4AA-\ 4A-\	4e-/ 4ee-/
+4E-\ 4Bn\	8a-/L
+.	8b-/J
+4E-\ 4B\	4a-/ 4bn/
+=350	=350
+4EE-/	4e-/
+4E-\ 4G\	8g/L
+.	8a-/J
+4G\	4g/ 4b-/
+=351	=351
+4EE-/	4g/
+4E-\ 4G\	4r
+4G\	8b-\L
+.	8b-\J
+=352	=352
+4r	4g/
+4D\ 4A-\	8a-/L
+.	8g/J
+4A-\	4f/
+=353	=353
+!!pagebreak:original
+4EE-/	4f/ 4g/
+4BB-\ 4G\	8g/L
+.	8f/J
+4E-\ 4G\	4e-/
+=354	=354
+*	*MM182
+4EE-/	8d/L
+.	8bn/J
+4F\ 4A-\	8b/L
+.	8b/J
+4F\ 4A-\	8b/L
+.	8b/J
+=355	=355
+4EE-/	8bn/L
+.	8b-/J
+4E-\ 4G\	8g/L
+.	8e-/J
+4G\	4B-/
+=356	=356
+*	*MM184
+*	*^
+4EE-/	4g/	[4B-\
+4D\ 4A-\	4r	8B-\L_ 8a-\
+.	.	8B-\J_ 8g\
+4D\ 4A-\	4r	4B-\] 4f\
+=357	=357	=357
+4EE-/	4f/	[4B-\
+4E-\ 4G\	4r	4B-\_ 4f\ 4g\
+4G\	4r	4B-\] 4e-\
+*	*v	*v
+=358	=358
+*	*MM183
+4EE-/	8d/L
+.	8bn/J
+4A-\	8b/L
+.	8b/J
+4F\ 4A-\	8b/L
+.	8b/J
+=359	=359
+!!linebreak:original
+4EE-/	8bn/L
+.	8b-/J
+4G\	8g/L
+.	8e-/J
+4BB-\ 4G\	4B-/
+=360	=360
+4EE-/	8bn\L
+.	8b\J
+4A-\	8b\L
+.	8b\J
+4A-\	8b\L
+.	8b\J
+=361	=361
+4EE-/	8bn\L
+.	8b-\J
+4BB-\ 4A-\	8a-/L
+.	8f/J
+4BB-\ 4A-\	4d/
+=362	=362
+4EE-/	8gg\L
+.	8ff\J
+4A-\	8dd\L
+.	8bn\J
+4F\ 4A-\	4a-/
+=363	=363
+4EE-/	8bbn\L
+.	8aa-\J
+4A-\	8ff\L
+.	8dd\J
+4BB-\ 4A-\	4bn\
+=364	=364
+*	*MM185
+4E-\	8bbn\L
+.	8gg\J
+4Bn\ 4d\	8bb\L
+.	8aa-\J
+4r	8ff\L
+.	8dd\J
+=365	=365
+!!linebreak:original
+4Bn\ 4d\	8bbn\L
+.	8gg\J
+4B\ 4d\	8bb\L
+.	8aa-\J
+4r	8ff\L
+.	8dd\J
+=366	=366
+4Bn\ 4d\	8bn/L
+.	8g/J
+4B\ 4d\	8b/L
+.	8a-/J
+4r	8f/L
+.	8d/J
+=367	=367
+8Bn\L	2.r
+8G\J	.
+8B\L	.
+8A-\J	.
+8F\L	.
+8D\J	.
+=368	=368
+*	*clefF4
+4EE-/	4E-'\
+4r	8G\L
+.	8A-\J
+4r	8B-\L
+.	8c\J
+=369	=369
+*	*clefG2
+2.r	8d/L
+.	8e-/J
+.	8f/L
+.	8g/J
+.	8a-/L
+.	8an/J
+=370	=370
+!!linebreak:original
+4r	8cc\L
+.	8b-\J
+*clefG2	*
+4G/ 4e-/	8g/L
+.	8a-/J
+4e-/ 4g/	8b-\L
+.	8cc\J
+=371	=371
+4g/	8dd\L
+.	8ee-\J
+4e-/ 4g/	8ff\L
+.	8gg\J
+4e-/ 4g/	8aa-\L
+.	8aan\J
+=372	=372
+4B-/ 4g/	8ccc\L
+.	8bb-\J
+4G/ 4g/	8gg\L
+.	8aa-\J
+4e-/ 4g/	8bb-\L
+.	8ccc\J
+=373	=373
+4g/	8ddd\L
+.	8eee-\J
+4e-/ 4g/	8fff\L
+.	8ggg\J
+4e-/ 4g/	8aaa-\L
+.	8aaan\J
+=374	=374
+4G/ 4g/	8cccc\L
+.	8bbb-\J
+4e-/ 4g/	8ggg\L
+.	8aaa-\J
+4B-/ 4g/	8aaan\L
+.	8bbb-\J
+=375	=375
+!!pagebreak:original
+4g/	8cccc\L
+.	8bbb-\J
+4e-/ 4g/	8ggg\L
+.	8aaa-\J
+4g/	8aaan\L
+.	8bbb-\J
+=376	=376
+*	*MM184
+4e-/ 4g/	4eeee-'\
+4r	8ggg\L
+.	8aaa-\J
+4r	8aaan\L
+.	8bbb-\J
+=377	=377
+4G/ 4e-/	4eeee-\
+4r	8ggg\L
+.	8aaa-\J
+4r	8aaan\L
+.	8bbb-\J
+=378	=378
+4B-/ 4g/	4eeee-\
+4r	8ggg\L
+.	8aaa-\J
+4r	8aaan\L
+.	8bbb-\J
+=379	=379
+4g/ 4b-/	4eeee-\
+4r	8ggg\L
+.	8aaa-\J
+4r	8aaan\L
+.	8bbb-\J
+=380	=380
+!!linebreak:original
+4ee-\	4eeee-\
+4r	8ggg\L
+.	8aaa-\J
+4r	8aaan\L
+.	8bbb-\J
+=381	=381
+4g/ 4b-/	4eeee-\
+4r	8ggg\L
+.	8aaa-\J
+4r	8aaan\L
+.	8bbb-\J
+=382	=382
+4gg\	4eeee-\
+4r	8ggg\L
+.	8aaa-\J
+4r	8aaan\L
+.	8bbb-\J
+=383	=383
+4gg\ 4bb-\	4eeee-\
+4r	8ggg\L
+.	8aaa-\J
+4r	8aaan\L
+.	8bbb-\J
+=384	=384
+4ggg\	4eeee-\
+4r	4r
+4r	4r
+=385	=385
+2.r	2.r
+=386	=386
+*	*MM170
+4ee-\	4gg\ 4bb-\ 4eee-\ 4ggg\
+4r	4r
+4r	4r
+=387	=387
+!!linebreak:original
+*clefF4	*
+4B-\ 4e-\	4g\ 4b-\ 4ee-\ 4gg\
+4e-\	4g\ 4b-\ 4ee-\ 4gg\
+4e-\	4g\ 4b-\ 4ee-\ 4gg\
+=388	=388
+*	*clefF4
+*	*MM160
+2.EE-/	2.E-\
+==	==
+*-	*-
