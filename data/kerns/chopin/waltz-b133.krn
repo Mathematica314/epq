@@ -1,0 +1,179 @@
+!!!COM: Chopin, Fr&egrave;d&egrave;ric
+!!!OTL: Waltz in E-flat major
+!!!SCT: B. 133
+**kern	**kern
+*staff2	*staff1
+*Ipiano	*Ipiano
+*clefF4	*clefG2
+*k[b-e-a-]	*k[b-e-a-]
+*M3/4	*M3/4
+!	!LO:TX:Y=0:t=Sostenuto
+*	*MM100
+4r	(4B-/
+=1	=1
+4r	4g/
+4E-\ 4B-\	8f#/L
+.	8g/
+4E-\ 4B-\	8cc/
+.	8b-/J
+=2	=2
+4r	2b-/
+4BB-/	.
+4F\ 4B-\ 4d\	4a-/)
+=3	=3
+4r	(4g/
+4E-\ 4B-\ 4e-\	8f#/L
+.	8g/
+.	b-q/
+4E-\ 4B-\	8.a-/
+.	16g/Jk
+=4	=4
+4r	2g/
+4D\ 4G\ 4Bn\	.
+4GG/	4f/)
+=5	=5
+4r	(4e-/
+4C\ 4G\	8f/L
+.	8e-/
+4AAn/ 4F#/	8c/
+.	8e-/J
+=6	=6
+!!linebreak:original
+4BB-/	8B-/L
+.	8e-/
+4G\ 4B-\ 4e-\	8g/
+.	8b-/
+4r	8ee-/
+.	8cc/J
+=7	=7
+4BB-/	8b-/L
+.	8an/
+4F\ 4A-\ 4d\	8a-/
+.	8B-/
+4F\ 4A-\ 4d\	8f/
+.	8cc/J
+=8	=8
+4BB-/	8b-/L
+.	8an/
+4F\ 4A-\ 4d\	8a-/
+.	8B-/
+4r	8e-/
+.	8f/J)
+=9	=9
+4EE-/	(4g/
+4E-\ 4B-\	8f#/L
+.	8g/
+4E-\ 4B-\	8.cc/
+.	16b-/Jk
+=10	=10
+4r	2b-/
+4F\ 4B-\ 4d\	.
+4BB-/	4a-/)
+=11	=11
+4r	(4g/
+4E-\ 4B-\ 4e-\	8f#/L
+.	8g/
+.	b-q/
+4E-\ 4B-\ 4e-\	8.a-/
+.	16g/Jk
+=12	=12
+!!linebreak:original
+4r	2g/
+4E-\ 4B-\ 4d-\	.
+4E-\ 4G\ 4d-\	8.f/L
+.	16e-/Jk
+=13	=13
+4AA-/	4e-/
+4E-\ 4A-\ 4c\	8f/L
+.	8e-/
+4E-\ 4A-\	8c-/
+.	8e-/J
+=14	=14
+4BB-/	8B-/L
+.	8e-/
+4G\ 4B-\ 4e-\	8g/
+.	8b-/
+4r	8gg/
+.	8an/J 8cc/
+=15	=15
+4BBB-/	8a-/L 8ff/
+.	8g/ 8bn/
+4F\ 4B-\ 4d\	8a-/ 8cc/
+.	8en/ 8g/
+4BB-/	8f/ 8a-/
+.	8A-/J 8d/
+=16	=16
+4EE-/	4G/) 4e-/
+4BB-\ 4G\	4r
+=:|!	=:|!
+!!linebreak:original
+(8f\L	4r
+8e-\J	.
+=17!|:	=17!|:
+4.d\	4r
+*	*^
+.	2bn/	4f\ 4g\
+8G\L	.	.
+8c\	.	4f\ 4g\
+8d\J	.	.
+*	*v	*v
+=18	=18
+4.e-\	4r
+*	*^
+.	(4cc/	2g-\ 2an\
+8e-\L	.	.
+8d\	8dd/L	.
+8c\J	8ee-/J)	.
+*	*v	*v
+=19	=19
+(BB-q/	.
+8c\L)	4r
+8B-\	.
+8An\	4d/ 4a-/ 4b-/
+8B-\	.
+8c\	4d/ 4a-/ 4b-/
+8B-\J	.
+=20	=20
+(E-q/	.
+8c\L)	4r
+8B-\	.
+8An\	4e-/ 4g/ 4b-/
+8B-\	.
+dq/	.
+8.c\	4e-/ 4g/ 4b-/
+16B-\Jk	.
+=21	=21
+!!linebreak:original
+4.Bn\)	4r
+.	(4f/ 4g/ 4dd/
+(8GG\L	.
+8c\	4f/) 4g/
+8d\J	.
+=22	=22
+4.e-\	4r
+*	*^
+.	(4cc/	4g-\ 4an\
+8e-\L	.	.
+8d\	8.dd/L	4g-\ 4a\
+8c\J	.	.
+.	16ee-/Jk	.
+*	*v	*v
+=23	=23
+BB-q/	(ddq/
+8c\L	2a-\) 2dd\ 2gg\
+8B-\	.
+8An\	.
+8B-\	.
+8g\	4a-\ 4dd\
+8f\J	.
+=24	=24
+4e-\)	4g\) 4ee-\
+(8E-\L	4r
+8B-\	.
+8f\	4g/ 4b-/
+8e-\J)	.
+=25:|!	=25:|!
+(4e-\	4g\ 4ee-\
+4EE-/)	4r
+==	==
+*-	*-
