@@ -6,7 +6,7 @@ import torch
 class NoteFreqDataset(Dataset):
     def __init__(self,train,seed):
         self.composers = ["bach","beethoven","chopin","haydn","joplin","mozart","scarlatti"]
-        with open("notefreqs.csv","rb") as file:
+        with open("../notefreqs.pkl", "rb") as file:
             data = pickle.load(file)
         points = []
         for composer,value in zip(data.keys(),data.values()):
