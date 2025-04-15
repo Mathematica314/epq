@@ -1,6 +1,6 @@
 import note
 
-filepath = "data/music/mozart/sonata05-1.krn"
+filepath = "../data/kerns/mozart/sonata05-1.krn"
 file = [x.strip("\n").split("\t") for x in open(filepath).readlines() if x[:3] != "!!!"]
 key = []
 parts = 2
