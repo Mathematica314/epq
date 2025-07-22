@@ -34,25 +34,25 @@ def midi(path,out):
     mid.close()
 
 features = [
-    features.native.MostCommonNoteQuarterLength,
-    features.native.MostCommonNoteQuarterLengthPrevalence,
-    features.jSymbolic.AverageMelodicIntervalFeature,
-    features.jSymbolic.AverageNoteDurationFeature,
-    features.jSymbolic.AverageNumberOfIndependentVoicesFeature,
-    features.jSymbolic.ChromaticMotionFeature,
-    features.jSymbolic.DirectionOfMotionFeature,
-    features.jSymbolic.ImportanceOfBassRegisterFeature,
-    features.jSymbolic.ImportanceOfHighRegisterFeature,
-    features.jSymbolic.MelodicOctavesFeature,
-    features.jSymbolic.MelodicFifthsFeature,
-    features.jSymbolic.MelodicTritonesFeature,
-    features.jSymbolic.MelodicThirdsFeature,
-    features.jSymbolic.MostCommonPitchFeature,
-    features.jSymbolic.MostCommonPitchClassPrevalenceFeature,
-    features.jSymbolic.PitchVarietyFeature,
-    features.jSymbolic.PrimaryRegisterFeature,
-    features.jSymbolic.RangeFeature,
-    features.jSymbolic.StepwiseMotionFeature,
+    features.native.MostCommonNoteQuarterLength, #0
+    features.native.MostCommonNoteQuarterLengthPrevalence, #1
+    features.jSymbolic.AverageMelodicIntervalFeature, #2
+    features.jSymbolic.AverageNoteDurationFeature, #3
+    features.jSymbolic.AverageNumberOfIndependentVoicesFeature, #4
+    features.jSymbolic.ChromaticMotionFeature, #5
+    features.jSymbolic.DirectionOfMotionFeature, #6
+    features.jSymbolic.ImportanceOfBassRegisterFeature, #7
+    features.jSymbolic.ImportanceOfHighRegisterFeature, #8
+    features.jSymbolic.MelodicOctavesFeature, #9
+    features.jSymbolic.MelodicFifthsFeature, #10
+    features.jSymbolic.MelodicTritonesFeature, #11
+    features.jSymbolic.MelodicThirdsFeature, #12
+    features.jSymbolic.MostCommonPitchFeature, #13
+    features.jSymbolic.MostCommonPitchClassPrevalenceFeature, #14
+    features.jSymbolic.PitchVarietyFeature, #15
+    features.jSymbolic.PrimaryRegisterFeature, #16
+    features.jSymbolic.RangeFeature, #17
+    features.jSymbolic.StepwiseMotionFeature, #18
 ]
 
 def get_features(path):
@@ -63,3 +63,15 @@ def get_features(path):
         fe = f(file)
         data.append(fe.extract().vector[0])
     return data
+
+def pitch_unigrams(path):
+    file = music21.converter.parse(path)
+    file = file.transpose(music21.interval.Interval(file.analyze("key").tonic,music21.pitch.Pitch("C")))
+    topnotes = [[max(x.notes) for x in e.elements if type(x) == music21.chord.Chord] for e in file.chordify().elements if type(e) == music21.stream.Measure]
+    topnotes = [x.pitch.midi for y in topnotes for x in y]
+    return topnotes
+
+def rhythm_unigrams(path):
+    file = music21.converter.parse(path)
+    topnotes = [[max(x.notes) for x in e.elements if type(x) == music21.chord.Chord] for e in file.chordify().elements if type(e) == music21.stream.Measure]
+    return [x.duration.quarterLength for y in topnotes for x in y]
